@@ -1,0 +1,21 @@
+.roomlist-wrap{
+    .ant-collapse-header{
+        color:#000 !important;
+        font-size: 17px;
+    }
+    .ant-collapse-content {
+        padding: 0 40px !important;
+        .room-item-link{
+            display: block;
+            margin-bottom: 5px  ;
+            font-size:16px;
+            color: #000;
+        }
+        .add-room{
+            padding:0;
+            font-size: 16px;
+            background-color: #fff !important;
+            color:#40a9ff;
+        }
+    }
+}
